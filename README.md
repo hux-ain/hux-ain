@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Hux_Ain! 👋
 
-<!--
-**hux-ain/hux-ain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from Karachi, passionate about building scalable web applications and integrating Artificial Intelligence to solve modern problems. I love turning complex ideas into seamless user experiences.
 
-Here are some ideas to get you started:
+**🚀 What I'm Up To:**
+- Deep diving into Advanced AI integrations and smart web architectures.
+- Building and deploying fast, serverless applications.
+- Scaling my skills as a technical freelancer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠️ Tech Stack & Tools:**
+- **Frontend & Deployment:** React, Next.js, Vercel
+- **Backend & Databases:** Node.js, Neon Serverless Postgres
+- **AI & Innovation:** Claude, Gemini, AI-Driven Workflows
+
+**📈 My Focus Areas:**
+- Full-Stack Web Development
+- Artificial Intelligence & Applied Machine Learning
+- Creating impactful open-source projects
+
+**📫 Let's Connect!**
+- [https://www.linkedin.com/in/muhammad-ul-hussain-6323a8209/]
