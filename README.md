@@ -18,4 +18,4 @@ I'm a developer from Karachi, passionate about building scalable web application
 - Creating impactful open-source projects
 
 **📫 Let's Connect!**
-- [https://www.linkedin.com/in/muhammad-ul-hussain-6323a8209/]
+- https://www.linkedin.com/in/muhammad-ul-hussain-6323a8209/
