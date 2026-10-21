@@ -16,7 +16,7 @@
 
 ## About
 
-I build scalable web applications and bring AI into them to solve real problems, taking ideas from database design all the way to deployment. I care about turning complex requirements into fast, seamless user experiences, and I currently work as a freelance developer.
+I build scalable web applications and bring AI into them to solve real problems, taking ideas from database design all the way to deployment. I care about turning complex requirements into fast, seamless user experiences, and I currently work as a Full-Stack Developer in Gerry's Information Technology and as a freelance developer in home.
 
 ## Currently
 
